@@ -1,0 +1,29 @@
+.wrapper{width:900px;}
+.header{
+	border:1px solid red;
+	background-color:pink;
+	color:black;
+	font-weight:bold;
+	font-size:35px;
+	padding:35px 10px;
+	}
+.sidebar{
+	width: 170px;
+	float:left;
+	padding:5px;
+	border:1px solid red;
+	overflow:hidden;
+	}
+.content{
+	width: 706px;
+	float: right;
+	padding: 5px;
+}
+.footer{
+	text-align: center;
+	background: pink;
+	color: black;
+	padding: 21px 3px;
+	border:1px solid red;
+}
+.clear{clear:both;}
